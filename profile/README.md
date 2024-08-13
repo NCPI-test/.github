@@ -1,8 +1,8 @@
 <p align=center><img src="https://github.com/NCPI-test/.github/blob/main/ncpi-logo-close-crop.png" width="400"/></p>
 
-# <p align=center> NIH Cloud Platform Interoperability Program (NCPI)  </p>
+# <p align=center> NIH Cloud Platform Interoperability Program (NCPI) TEST PAGE  </p>
 
-Welcome to the official NCPI GitHub page! 
+Welcome to the test NCPI GitHub page! 
 
 The purpose of this page is to serve as a technical hub for the NCPI community including providing:
   - Information on the current interoperability work that is occuring
