@@ -1,8 +1,10 @@
 <p align=center><img src="https://github.com/NCPI-test/.github/blob/main/ncpi-logo-close-crop.png" width="400"/></p>
 
-# <p align=center> NIH Cloud Platform Interoperability Program (NCPI) TEST PAGE  </p>
+# <p align=center> NIH Cloud Platform Interoperability (NCPI) Program TEST PAGE  </p>
 
 Welcome to the test NCPI GitHub page! 
+
+The NCPI program is a partnership between multiple NIH-supported participating systems (currently AnVIL, BioData Catalyst, CRDC, dbGaP, and Kids First) developing and implementing technical standards to enable interoperability and facilitate a federated data ecosystem.
 
 The purpose of this page is to serve as a technical hub for the NCPI community including providing:
   - Information on the current interoperability work that is occuring
