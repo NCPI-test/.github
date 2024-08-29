@@ -8,7 +8,6 @@ The NCPI program is a partnership between multiple NIH-supported participating s
 
 The purpose of this page is to serve as a technical hub for the NCPI community including providing:
 - Information on the current interoperability work that is occurring
-- A central location to find tutorials to enable new members of the NCPI community to perform interoperability-focused work
 - Introductions and links to the services and tools that are fundamental to NCPI
 
 ## Repository Overview
